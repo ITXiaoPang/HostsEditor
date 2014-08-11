@@ -58,3 +58,6 @@ docs/_build/
 
 #Idea Project
 .idea
+
+#OS X File
+.DS_Store
