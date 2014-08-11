@@ -55,3 +55,6 @@ docs/_build/
 #Sublime Text Project
 *.sublime-project
 *.sublime-workspace
+
+#Idea Project
+.idea
